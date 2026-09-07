@@ -1,0 +1,3 @@
+# SDCard Scanner - Dependencies
+# Optional but recommended for better progress bar experience
+tqdm>=4.65.0
